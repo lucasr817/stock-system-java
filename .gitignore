@@ -1,0 +1,18 @@
+# Compiled files
+*.class
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Build folders
+bin/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Application data
+inventory.csv
