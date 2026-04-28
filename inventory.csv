@@ -1,0 +1,3 @@
+type,id,name,price,stock
+unit,12,a,1.00,1
+weighted,25,lo,2.10,2.000
